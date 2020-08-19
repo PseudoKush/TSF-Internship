@@ -12,5 +12,20 @@ Tools Used:
             - Jupyter Notebook - for creating ML model  
             - HTML/CSS - for creating webpage  
             - Flask - for linking ML model with HTML  
- Result: RMSE score: 4.18  
+ Result: RMSE score: 4.509  
  
+ 
+ Sample Screenshots:  
+![Image 1](https://github.com/PseudoKush/TSF-Internship/blob/master/Task%202/Screenshots/IMG%201.png)  
+![Image 2](https://github.com/PseudoKush/TSF-Internship/blob/master/Task%202/Screenshots/IMG%202.png)  
+![Image 3](https://github.com/PseudoKush/TSF-Internship/blob/master/Task%202/Screenshots/IMG%203.png)  
+![Image 4](https://github.com/PseudoKush/TSF-Internship/blob/master/Task%202/Screenshots/IMG%204.png)  
+ 
+To run the web app:  
+1. Clone or download the repository  
+2. Open Terminal  
+3. Change the Directory to the destination of repository  
+4. Run Command: python app.py  
+5. Copy the HTTPS address in the web browser to run the app(Default address: http://127.0.0.1:5000/).  
+
+
